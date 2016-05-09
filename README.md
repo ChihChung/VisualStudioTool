@@ -4,6 +4,8 @@
 * [Code Alignment](https://visualstudiogallery.msdn.microsoft.com/7179e851-a263-44b7-a177-1d31e33c84fd) - Code alignment helps you present your code beautifully, enhancing clarity and readability.
   * [Code alignment website](http://www.codealignment.com/)
 * [Google Test Adapter](https://visualstudiogallery.msdn.microsoft.com/f00c0f72-ac71-4c80-bf8b-6fe381548031) - Unit Test Adapter for Google Test (gtest).
+  * [Google Test](https://github.com/google/googletest) - Google's C++ test framework.
+  * [Google Mock](https://github.com/google/googletest/tree/master/googlemock) - The Google C++ mocking framework.
 
 #Font
 * [Programming Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
