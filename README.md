@@ -7,5 +7,5 @@
 #Font
 * [Programming Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
 * [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/index.php?title=Main_Page)
-* ![Image of Yaktocat](http://hivelogic.com/images/u/deja-vu-sans-mono.png)
+  ![Image of Yaktocat](http://hivelogic.com/images/u/deja-vu-sans-mono.png)
 * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
